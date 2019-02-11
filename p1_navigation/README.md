@@ -20,6 +20,22 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
+### Solution and Result by Bongsang
+
+You can use DQN to solve the problem.
+After around 450 episodes DQN can be smart enough to avoid blue banana and to get yellow banana.
+Below is a capture GIF traing algorithm:
+
+#### Training
+![]['p1_navigation/result/navigation_solution_bongsang.gif']
+
+
+#### Scores Graph
+![]['p1_navigation/result/scores_graph.png']
+
+
+
+
 ### Getting Started
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
