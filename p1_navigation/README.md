@@ -35,7 +35,8 @@ Below is a capture GIF traing algorithm:
 [scores_graph]: result/scores_graph.png
 ![][scores_graph]
 
-#### You can see full source code and run by yourself. The source is located in p1_navigation folder.
+#### You can see full source code and run by yourself. The source is located in this folder.
+#### Source code: p1_navigation/Navigation_Solution_Bongsang.ipynb
 
 ### Thank you
 
