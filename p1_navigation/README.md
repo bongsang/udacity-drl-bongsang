@@ -32,10 +32,12 @@ Below is a capture GIF traing algorithm:
 
 
 #### Scores Graph
-![][result/scores_graph.png]
+[scores_graph]: result/scores_graph.png
+![][scores_graph]
 
+#### You can see full source code and run by yourself. The source is located in p1_navigation folder.
 
-
+### Thank you
 
 ### Getting Started
 
