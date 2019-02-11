@@ -27,11 +27,11 @@ After around 450 episodes DQN can be smart enough to avoid blue banana and to ge
 Below is a capture GIF traing algorithm:
 
 #### Training
-![]['p1_navigation/result/navigation_solution_bongsang.gif']
+![]['result/navigation_solution_bongsang.gif']
 
 
 #### Scores Graph
-![]['p1_navigation/result/scores_graph.png']
+![]['result/scores_graph.png']
 
 
 
